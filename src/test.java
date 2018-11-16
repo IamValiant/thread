@@ -6,6 +6,7 @@ public class test {
 	public void test(){
 		System.out.println("test for one!");
 		System.out.println("test for one too!");
+		System.out.println("test for two!");
 	}
 
 }
