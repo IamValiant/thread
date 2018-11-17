@@ -12,6 +12,7 @@ public class test {
 		System.out.println("test for five!");
 		System.out.println("test for six change!");
 		System.out.println("test for seven!");
+		System.out.println("test for eight!");
 	}
 
 }
