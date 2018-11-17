@@ -10,7 +10,7 @@ public class test {
 		System.out.println("test for three!");
 		System.out.println("test for four!");
 		System.out.println("test for five!");
-		System.out.println("test for six!");
+		System.out.println("test for six change!");
 		System.out.println("test for seven!");
 	}
 
