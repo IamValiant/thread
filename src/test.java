@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 public class test {
 
 	@Test
-	public void test(){
+	public void test() {
 		System.out.println("test for one!");
 		System.out.println("test for one too!");
 		System.out.println("test for two!");
@@ -14,6 +14,12 @@ public class test {
 		System.out.println("test for seven!");
 		System.out.println("test for eight!");
 		System.out.println("test for nine!");
+	}
+
+	@Test
+	public void testForMerge() {
+		System.out.println("this is first, test for merge!");
+
 	}
 
 }
