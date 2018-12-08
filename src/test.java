@@ -19,7 +19,7 @@ public class test {
 	@Test
 	public void testForMerge() {
 		System.out.println("this is first, test for merge!");
-
+		System.out.println("this is second!");
 	}
 
 }
