@@ -20,6 +20,7 @@ public class test {
 	public void testForMerge() {
 		System.out.println("this is first, test for merge!");
 		System.out.println("this is second!");
+		System.out.println("this is third!");
 	}
 
 }
